@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taliban 'Greater Afghanistan' Map Dispute",
+        "date": "2025-11",
+        "type": "border_dispute",
+        "description": "Taliban released maps claiming parts of Pakistan (Durand Line dispute)."
+      },
+      "geometry": { "type": "Point", "coordinates": [69.2075, 34.5553] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ethiopia-Somalia Map Tensions",
+        "date": "2025-10",
+        "type": "diplomatic_crisis",
+        "description": "Ethiopian PM office published a map including Somali territory."
+      },
+      "geometry": { "type": "Point", "coordinates": [45.3182, 2.0469] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Russia Annexation Claims",
+        "date": "2026-01",
+        "type": "conflict",
+        "description": "Russian officials display maps incorporating Ukrainian regions."
+      },
+      "geometry": { "type": "Point", "coordinates": [37.6173, 48.5740] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Armenia-Azerbaijan Border Delimitation",
+        "date": "2026-03",
+        "type": "treaty",
+        "description": "Tavush region territory transferred under border agreement."
+      },
+      "geometry": { "type": "Point", "coordinates": [45.0256, 40.9541] }
+    }
+  ]
+}
